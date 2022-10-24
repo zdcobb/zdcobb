@@ -8,7 +8,8 @@
     - Woodworking
     - Learning new things!
 - 🌱 I’m currently learning ...
-    - Graphql w/ apollo, React, Prisma
+    - AWS
+    - GraphQL w/ apollo, React, Prisma
 - 📫 How to reach me ...
     - zdcobb@gmail.com
 
