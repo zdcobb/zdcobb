@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @zdcobb
 - 👀 I’m interested in ...
-    - JavaScript, React, Python
+    - JavaScript/TypeScript, React, Python and more!
+    - Exploring new frameworks & tech stacks
     - UI and UX Design
     - D&D
     - Hiking
@@ -8,7 +9,7 @@
     - Woodworking
     - Learning new things!
 - 🌱 I’m currently learning ...
-    - AWS
+    - Cloud Distributed Systems
     - GraphQL w/ apollo, React, Prisma
 - 📫 How to reach me ...
     - zdcobb@gmail.com
